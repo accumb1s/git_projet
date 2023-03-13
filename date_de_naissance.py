@@ -14,4 +14,4 @@ date_obj = datetime.datetime.strptime(date_str, '%d/%m/%Y')
 jour_semaine = date_obj.strftime('%A')
 
 # Afficher le résultat
-print("Vous êtes né(e) un ", jour_semaine)
+print("Vous êtes né(e) un", jour_semaine)
