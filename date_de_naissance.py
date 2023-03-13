@@ -15,3 +15,5 @@ jour_semaine = date_obj.strftime('%A')
 
 # Afficher le résultat
 print("Vous êtes né(e) un", jour_semaine)
+
+# test
